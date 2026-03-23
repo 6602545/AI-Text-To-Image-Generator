@@ -7,7 +7,7 @@ Hi there!  Welcome to my Generative AI project. This is a personal exploration i
 ## Why this project?
 I’ve always been fascinated by how AI understands human language. This project is my way of bridging the gap between imagination and visual art. Using **Python** and **PyTorch**, I built a workflow that transforms natural language descriptions into high-quality images.
 
-Whether it's a "Cyberpunk city" or a "Cat drinking coffee," the AI works its magic to visualize it for you! 
+Whether it's a "Cyberpunk city" or a "Cute cat chilling," the AI works its magic to visualize it for you! 
 
 ##  Tech Stack & Tools
 * **Language:** Python 
@@ -20,10 +20,13 @@ Whether it's a "Cyberpunk city" or a "Cat drinking coffee," the AI works its mag
 2. **Diffusion Process:** The model starts with a "noisy" image (like static on an old TV) and iteratively refines it based on your words.
 3. **The Result:** A clear, high-quality image (768x768) in just a few seconds!
 
-## 📸 Cool Examples
-| Prompt | Result |
-| "A futuristic cat wearing a spacesuit, cinematic lighting, 4k" | 
-| "Van Gogh style painting of a modern laptop" | 
+## Cool Examples
+| Prompt |
+| "parrots" | 
+
+i'll show you my picture that I created.
+<img width="768" height="768" alt="image" src="https://github.com/user-attachments/assets/d920c4bc-18b0-4425-8021-58cf874d4a73" />
+
 
 ##  Quick Start
 If you want to play around with this, you can:
