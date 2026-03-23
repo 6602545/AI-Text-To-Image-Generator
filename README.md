@@ -22,12 +22,11 @@ Whether it's a "Cyberpunk city" or a "Cute cat chilling," the AI works its magic
 
 ## Cool Examples
 | Prompt |
-| "parrots" | 
-
+| "parrot" | |"cat"|
 i'll show you my picture that I created.
-<img width="768" height="768" alt="image" src="https://github.com/user-attachments/assets/d920c4bc-18b0-4425-8021-58cf874d4a73" />
+<img width="768" height="768" alt="image" src="https://github.com/user-attachments/assets/bd1183a9-b2ed-4c38-951b-cfa9c096945a" />
 
-
+<img width="768" height="768" alt="image" src="https://github.com/user-attachments/assets/e792c07d-b716-4a04-b498-01e1776544a3" />
 ##  Quick Start
 If you want to play around with this, you can:
 1. Open the notebook in **Google Colab**.
