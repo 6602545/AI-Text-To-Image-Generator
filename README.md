@@ -36,4 +36,4 @@ If you want to play around with this, you can:
 4. Let your imagination run wild! 
 
 ---
-**About the Author:** Just a Computer Engineering student who loves experimenting with AI. Feel free to check out the code, fork it, or let me know what you think! 
+**About the Author:** Just a Computer Engineering student who loves experimenting with AI. Feel free to check out the code, fork it. 
